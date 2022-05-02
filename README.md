@@ -6,7 +6,7 @@
 
 <table><tr><td align="center" width="55%">
 
-![Yanxing-Shi's github stats](https://github-readme-stats.vercel.app/api?username=Ldpe2G&count_private=true&show_icons=true&theme=dark)
+![Yanxing-Shi's github stats](https://github-readme-stats.vercel.app/api?username=Yanxing-Shi&count_private=true&show_icons=true&theme=dark)
 
 </td><td align="top" width="45%">
 
