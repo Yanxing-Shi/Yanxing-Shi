@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanxing Shi</h1>
 
-<hr>
-🌱 I’m currently working on and learning:
-- HPC
-- MLsys
-
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Yanxing-Shi/count.svg" />
 </p>
@@ -19,3 +14,6 @@
 
 </td></tr></table>
 
+🌱 I’m currently working on and learning:
+- HPC
+- MLsys
