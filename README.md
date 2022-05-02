@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yanxing Shi</h1>
 
-<!--
-**Yanxing-Shi/Yanxing-Shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Yanxing-Shi/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+<table><tr><td align="center" width="55%">
 
-- 🔭 I’m currently working on ...
+![Yanxing-Shi's github stats](https://github-readme-stats.vercel.app/api?username=Ldpe2G&count_private=true&show_icons=true&theme=dark)
+
+</td><td align="top" width="45%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanxing-Shi&layout=compact&theme=dark)
+
+</td></tr></table>
+
+###
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
