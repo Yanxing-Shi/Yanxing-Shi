@@ -14,7 +14,7 @@
 
 </td></tr></table>
 
-🌱 I’m currently working on and learning:
+😃 I’m currently working on and learning:
 - HPC
 - MLsys
 - NLP
