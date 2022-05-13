@@ -17,3 +17,5 @@
 🌱 I’m currently working on and learning:
 - HPC
 - MLsys
+- NLP
+- CV
